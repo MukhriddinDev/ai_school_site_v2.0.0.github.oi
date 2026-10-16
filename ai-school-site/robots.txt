@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mukhriddindev.github.io/ai_school_site/sitemap.xml
